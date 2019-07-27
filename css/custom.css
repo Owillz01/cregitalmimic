@@ -1,0 +1,231 @@
+font-family: 'ZCOOL XiaoWei', serif;
+body, *, html {
+    cursor: url(../images/cursor-default.svg),default !important;
+}
+
+
+
+.container-fluid{
+	padding-left: 80px;
+	padding-right: 80px;
+}
+
+.portfolio{
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+.portfolio a{
+	color: white;
+}
+
+.portfolio a:hover{
+	text-decoration: none;
+	color: white;
+	
+}
+.portfolioTop{
+	padding-top: 80px;
+	padding-bottom: 40px;
+}
+.zenith {
+    background-color: red;
+    transition: transform .4s;
+    background-image: url(../images/Zenith.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+/*    background-size: cover;
+*/    /*width: 80%;*/
+    margin: 5px;
+    /*height: 100%;*/
+    padding-bottom: 10px;
+
+}
+.zenith a div{
+	padding-bottom: 400px;
+	padding-top: 40px;
+	padding-left: 40px;
+}
+
+.zenith:hover{
+	transform: scale(.9);
+}
+
+.ark {
+	transition: transform .4s;
+    background-color: #00BABA;
+    background-image: url(../images/ark.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    padding-bottom: 10px;
+    margin: 5px;
+
+}
+.ark a div{
+    color: black ;
+	padding-bottom: 400px;
+	padding-top: 40px;
+	padding-left: 40px;
+}
+
+.ark:hover{
+	transform: scale(.9);
+}
+
+.clip {
+	transition: transform .4s;
+    background-color: #282456;
+    background-image: url(../images/clip.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    padding-bottom: 10px;
+    margin: 5px;
+
+}
+.clip a div{
+	padding-bottom: 400px;
+	padding-top: 40px;
+	padding-left: 40px;
+}
+.clip:hover{
+	transform: scale(.9);
+}
+
+.help {
+	transition: transform .4s;
+    background-color: #B0C20A;
+    background-image: url(../images/help.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    padding-bottom: 10px;
+    margin: 5px;
+
+}
+.help a div{
+	padding-bottom: 400px;
+	padding-top: 40px;
+	padding-left: 40px;
+}
+.help:hover{
+	transform: scale(.9);
+}
+.smw {
+	transition: transform .4s;
+    background-color: #393939;
+    background-image: url(../images/smw.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    padding-bottom: 10px;
+    margin: 5px;
+
+}
+.smw a div{
+	padding-bottom: 400px;
+	padding-top: 40px;
+	padding-left: 40px;#0C223D
+}
+.smw:hover{
+	transform: scale(.9);
+}
+.riby {
+	transition: transform .4s;
+    background-color: #0C223D;
+    background-image: url(../images/riby.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    padding-bottom: 10px;
+    margin: 5px;
+
+}
+.riby a div{
+	padding-bottom: 400px;
+	padding-top: 40px;
+	padding-left: 40px;
+}
+.riby:hover{
+	transform: scale(.9);
+}
+
+.image{
+	 width:60px;
+	 height:60px;
+}
+.ing img{
+	max-width: 184px;
+	max-height: 184px;
+	padding:-10px;
+}
+
+.footerBg{
+	background-color: #E8F8F8;
+	margin-top: 10px;
+	padding-top: 80px;
+	padding-bottom: 70px;
+	/*color:#00BABA;*/
+}
+
+.right{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+h3{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-weight: bold;
+}
+
+p{
+	padding-bottom: 20px;
+	padding-top: 20px;
+	font-size: 23px;
+}
+
+h6{
+	font-size: 20px;
+	font-weight:normal;
+}
+.footerBg h3{
+	/*background-color: #E8F8F8;*/
+	color:#00BABA;
+}
+
+a{
+	color: #00BABA;
+}
+
+a:hover{
+	text-decoration: none;
+}
+ span{
+	background-color: #00BABA;
+	color:white;
+	padding: 10px 40px 10px 40px;
+	/*display: inline;*/
+}
+
+/*span{
+	background-color: #00BABA;
+	color:white;
+	padding:/* 10px, 20px, 10px, */20px;
+	}*/
